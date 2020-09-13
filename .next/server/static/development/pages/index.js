@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -120,7 +120,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_DialogTitle__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_DialogTitle__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var mobx_react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! mobx-react */ "mobx-react");
 /* harmony import */ var mobx_react__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(mobx_react__WEBPACK_IMPORTED_MODULE_8__);
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\Add\\Add.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\Add\\Add.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -239,7 +239,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var mobx_react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(mobx_react__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _material_ui_icons_Delete__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/icons/Delete */ "@material-ui/icons/Delete");
 /* harmony import */ var _material_ui_icons_Delete__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Delete__WEBPACK_IMPORTED_MODULE_7__);
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\Details\\Detail.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\Details\\Detail.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -364,7 +364,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\Details\\Details.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\Details\\Details.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -601,7 +601,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\SnackBar\\Snackbar.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\SnackBar\\Snackbar.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -704,7 +704,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _SnapshotSum__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./SnapshotSum */ "./Components/SnapShot/SnapshotSum.jsx");
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\SnapShot\\Snapshot.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\SnapShot\\Snapshot.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
 
@@ -902,7 +902,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_ListItemAvatar__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_ListItemAvatar__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _material_ui_core_Avatar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/Avatar */ "@material-ui/core/Avatar");
 /* harmony import */ var _material_ui_core_Avatar__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Avatar__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\SnapShot\\SnapshotSum.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\SnapShot\\SnapshotSum.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -975,7 +975,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_icons_PlaylistPlay__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/icons/PlaylistPlay */ "@material-ui/icons/PlaylistPlay");
 /* harmony import */ var _material_ui_icons_PlaylistPlay__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_PlaylistPlay__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _Details_Details__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../Details/Details */ "./Components/Details/Details.jsx");
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\Tasks\\Taskinfo.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\Tasks\\Taskinfo.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1147,7 +1147,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\Components\\Tasks\\Taskslist.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\Components\\Tasks\\Taskslist.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -1400,7 +1400,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Toolbar__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Toolbar__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/core/Typography */ "@material-ui/core/Typography");
 /* harmony import */ var _material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_core_Typography__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\components\\AppBar\\AppBar.jsx";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\components\\AppBar\\AppBar.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1468,7 +1468,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_AppBar_AppBar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/AppBar/AppBar */ "./components/AppBar/AppBar.jsx");
 /* harmony import */ var _Components_SnapShot_Snapshot__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Components/SnapShot/Snapshot */ "./Components/SnapShot/Snapshot.jsx");
 /* harmony import */ var _Components_Tasks_Taskslist__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Components/Tasks/Taskslist */ "./Components/Tasks/Taskslist.jsx");
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\components\\FirstPage.js";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\components\\FirstPage.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -1664,7 +1664,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var mobx_react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(mobx_react__WEBPACK_IMPORTED_MODULE_3__);
 var _dec,
     _class,
-    _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\pages\\index.js";
+    _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -1723,14 +1723,14 @@ let Home = (_dec = Object(mobx_react__WEBPACK_IMPORTED_MODULE_3__["inject"])('ta
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\David\Desktop\next.js Todo\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\David\Downloads\home\code\Next.js-Todo-App\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

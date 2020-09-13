@@ -22757,7 +22757,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\David\\Desktop\\next.js Todo\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\David\\Downloads\\home\\code\\Next.js-Todo-App\\pages\\_app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 
